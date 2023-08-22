@@ -1,0 +1,21 @@
+{
+  "appTitle": "Taxi Chrono Driver",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+
+  "onboardingScreenTitleOneLabel": "Accept a Job",
+  "onboardingScreenTitleTwoLabel": "Tracking Realtime",
+  "onboardingScreenTitleThreeLabel": "Earn Money",
+  "onboardingScreenTitleFourLabel": "Enable Your Location",
+  "onboardingScreenUseMyLocationButtonLabel":"Use my location",
+
+  "signUpScreenSignUpLabel":"Sign up ",
+  "signUpScreenWithLabel":"with\n",
+  "signUpScreenEmailAndPhoneNumberLabel":"email and phone \nnumber!",
+  "signUpScreenEmailHintLabel":"example@example.com",
+  "signUpScreenPhoneNumberHintLabel":"Phone number",
+  "signUpScreenSignUpButtonLabel":"Sign up",
+  "signUpScreenAlreadyHaveAnAccountLabel":"Already have an account?",
+  "signUpScreenSignInButtonLabel":" Sign In"
+}
